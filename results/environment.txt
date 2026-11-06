@@ -1,0 +1,8 @@
+Seed: 42
+Alphabet: abcdefghijklmnopqrstuvwxyz
+Timed runs: 5
+Warmup runs: 5
+Java: 25.0.1
+OS: Mac OS X
+Architecture: aarch64
+Available processors: 10
